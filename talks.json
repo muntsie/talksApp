@@ -1,0 +1,254 @@
+[
+   {
+  "age": 0,
+  "talk": "Bipolar Disorder",
+  "firstName": "Jason",
+  "lastName": "Hunziker",
+  "credentials": "MD",
+  "day": "Wednesday morning",
+  "time": "8:30am"
+}, 
+   {
+  "age": 1,
+  "talk": "Pneumonia",
+  "firstName": "Greg",
+  "lastName": "Dupont",
+  "credentials": "MD",
+  "day": "Wednesday morning",
+  "time": "9:30am"
+}, 
+   {
+  "age": 2,
+  "talk": "Addiction Therapy",
+  "firstName": "Travis M.",
+  "lastName": "Lajoie",
+  "credentials": "DO",
+  "day": "Wednesday morning",
+  "time": "11:00am"
+}, 
+   {
+  "age": 3,
+  "talk": "New Drugs for Diabetes",
+  "firstName": "Denise",
+  "lastName": "Small",
+  "credentials": "Pharm D",
+  "day": "Wednesday morning",
+  "time": "12:00pm"
+}, 
+   {
+  "age": 4,
+  "talk": "Ebola and Zoonotic Infections",
+  "firstName": "Brandon",
+  "lastName": "Webb",
+  "credentials": "MD",
+  "day": "Wednesday afternoon",
+  "time": "2:00pm"
+}, 
+   {
+  "age": 5,
+  "talk": "Stroke Evaluation and Treatment",
+  "firstName": "Dean",
+  "lastName": "Roller",
+  "credentials": "MD",
+  "day": "Wednesday afternoon",
+  "time": "3:00pm"
+}, 
+   {
+  "age": 6,
+  "talk": "Malignant Skin Disorders",
+  "firstName": "Glen",
+  "lastName": "Bowen",
+  "credentials": "MD",
+  "day": "Wednesday afternoon",
+  "time": "4:00pm"
+}, 
+   {
+  "age": 7,
+  "talk": "Low Testosterone",
+  "firstName": "Will",
+  "lastName": "Brant",
+  "credentials": "MD",
+  "day": "Thursday morning",
+  "time": "8:30am"
+}, 
+   {
+  "age": 8,
+  "talk": "Ortho Topic",
+  "firstName": "Justin",
+  "lastName": "Hawes",
+  "credentials": "MD",
+  "day": "Thursday morning",
+  "time": "8:30am"
+}, 
+   {
+  "age": 9,
+  "talk": "BPH/LTS",
+  "firstName": "Andy",
+  "lastName": "Southwick",
+  "credentials": "MD",
+  "day": "Thursday morning",
+  "time": "9:30am"
+}, 
+   {
+  "age": 10,
+  "talk": "DVT/PE",
+  "firstName": "Scott",
+  "lastName": "Stevens",
+  "credentials": "MD",
+  "day": "Thursday morning",
+  "time": "9:30am"
+}, 
+   {
+  "age": 11,
+  "talk": "DVT/PE",
+  "firstName": "Scott",
+  "lastName": "Woller",
+  "credentials": "MD",
+  "day": "Thursday morning",
+  "time": "9:30am"
+}, 
+   {
+  "age": 12,
+  "talk": "New Anticoagulants",
+  "firstName": "Margaret",
+  "lastName": "Baldwin",
+  "credentials": "PharmD",
+  "day": "Thursday morning",
+  "time": "11:00am"
+}, 
+   {
+  "age": 13,
+  "talk": "Genetic Counseling",
+  "firstName": "Marjan",
+  "lastName": "Champine",
+  "credentials": "MS Genetic Counseling",
+  "day": "Thursday morning",
+  "time": "11:00am"
+}, 
+   {
+  "age": 14,
+  "talk": "Herpes",
+  "firstName": "Jennifer",
+  "lastName": "Coombs",
+  "credentials": "PA-C",
+  "day": "Thursday afternoon",
+  "time": "12:00pm"
+}, 
+   {
+  "age": 15,
+  "talk": "Fibromyalgia",
+  "firstName": "Patty",
+  "lastName": "Jeyes",
+  "credentials": "PA-C",
+  "day": "Thursday afternoon",
+  "time": "12:00pm"
+}, 
+   {
+  "age": 16,
+  "talk": "Legal Issues",
+  "firstName": "Ann",
+  "lastName": "Lapolla",
+  "credentials": "JD APRN",
+  "day": "Thursday afternoon",
+  "time": "1:00pm"
+}, 
+   {
+  "age": 17,
+  "talk": "Contraceptives",
+  "firstName": "David",
+  "lastName": "Turok",
+  "credentials": "MD MPH",
+  "day": "Thursday afternoon",
+  "time": "2:00pm"
+}, 
+   {
+  "age": 18,
+  "talk": "Headache Evaluation Workshop",
+  "firstName": "Susan",
+  "lastName": "Baggaley",
+  "credentials": "APRN",
+  "day": "Thursday afternoon",
+  "time": "2:00pm"
+}, 
+   {
+  "age": 19,
+  "talk": "Infectious Disease Pharmacology",
+  "firstName": "Kashif",
+  "lastName": "Memon",
+  "credentials": "MD",
+  "day": "Thursday afternoon",
+  "time": "3:30pm"
+}, 
+   {
+  "age": 20,
+  "talk": "Balance Evaluation",
+  "firstName": "Josh",
+  "lastName": "Leukenga",
+  "credentials": "AuD CCC-A F-AAA",
+  "day": "Thursday afternoon",
+  "time": "3:30pm"
+}, 
+   {
+  "age": 21,
+  "talk": "Respiratory Changes in the Elderly",
+  "firstName": "Diane",
+  "lastName": "Kendall",
+  "credentials": "MS APRN",
+  "day": "Friday morning",
+  "time": "8:00am"
+}, 
+   {
+  "age": 22,
+  "talk": "Autism",
+  "firstName": "Paul",
+  "lastName": "Carbone",
+  "credentials": "MD",
+  "day": "Friday morning",
+  "time": "8:00am"
+}, 
+   {
+  "age": 23,
+  "talk": "Trauma Is Not Only for the Young",
+  "firstName": "Renee",
+  "lastName": "Holleran",
+  "credentials": "MS APRN",
+  "day": "Friday morning",
+  "time": "9:00am"
+}, 
+   {
+  "age": 24,
+  "talk": "Peds topic",
+  "firstName": "Paul",
+  "lastName": "Carbone",
+  "credentials": "MD",
+  "day": "Friday morning",
+  "time": "9:00am"
+}, 
+   {
+  "age": 25,
+  "talk": "Prostate Cancer Update",
+  "firstName": "Will",
+  "lastName": "Lowrance",
+  "credentials": "MD",
+  "day": "Friday morning",
+  "time": "10:45am"
+}, 
+   {
+  "age": 26,
+  "talk": "Topic TBD",
+  "firstName": "Paul",
+  "lastName": "Summers",
+  "credentials": "MD",
+  "day": "Friday morning",
+  "time": "11:45am"
+}, 
+   {
+  "age": 27,
+  "talk": "Topic TBD",
+  "firstName": "Barry",
+  "lastName": "Stults",
+  "credentials": "MD",
+  "day": "Friday morning",
+  "time": "12:45pm"
+}
+]
