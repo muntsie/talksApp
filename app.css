@@ -1,0 +1,41 @@
+/* app css stylesheet */
+
+body {
+  padding-top: 20px;
+  line-height: 10px;
+}
+#search-terms {
+  line-height: 15px;
+}
+.speaker{
+	padding-bottom:5px;
+}
+.talks li{
+  list-style-type: none;
+}
+/* unvisited link */
+a:link {
+    color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+/* visited link */
+a:visited {
+    color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #A27D2C;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+	font-weight: bold;	
+	text-decoration: none;	
+}
